@@ -56,5 +56,5 @@ const fib = function(n){
     }
 
 }
-
+//Example
 console.log(fib(-7));
